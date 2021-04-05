@@ -1,2 +1,2 @@
-from . import test_openacademy, \
-    test_wizard
+from . import test_openacademy1
+from . import test_wizard1
